@@ -37,7 +37,7 @@ output
 ```
 
 Make predictions:
-`curl http://127.0.0.1:8080/predictions/mnist -T 3.png`, output `3`
+`curl http://127.0.0.1:8080/predictions/mnist -T test_data/3.png`, output `3`
 
 ## Web-App
 
